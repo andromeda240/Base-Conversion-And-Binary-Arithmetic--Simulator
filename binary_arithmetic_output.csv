@@ -1,0 +1,7 @@
+num1,num2,representation,operation,bit_width,result,overflow,error
+0110,0011,unsigned,add,4,1001,False,
+01010,00010,twos_complement,sub,5,01000,False,
+000101,000010,signed_magnitude,mul,6,00001010,False,
+1111,0001,ones_complement,div,4,Quotient: 1111 Remainder: 0000,False,
+10011111,00101100,twos_complement,add,8,11001011,False,
+0010,0000,unsigned,div,4,,False, Division by zero

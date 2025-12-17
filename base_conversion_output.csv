@@ -1,0 +1,7 @@
+number,base_1,base_2,output1,output2,match,error
+83.5,10,2,1010011.1000000000,83.5000000000,True,
+1111,2,10,15.0000000000,1111.0000000000,True,
+7A,16,8,172.0000000000,7A.0000000000,True,
+2A,10,2,,,False,ERROR! Invalid digits for the given base.
+9220.4,10,15,2AEA.6014B96E23,9220.4003906250,True,
+123.25,10,21,,,False,ERROR! Supported base range is 2-20

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-8173b98c054020514748.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS203_assignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS203_assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS203_assignment-Release-ea749cf285825d1160f3.json",
+					"name" : "CS203_assignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CS203_assignment_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS203_assignment_autogen-Release-c1e148ae31e892914997.json",
+					"name" : "CS203_assignment_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CS203_assignment_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS203_assignment_autogen_timestamp_deps-Release-6398c8102f3eea3f848b.json",
+					"name" : "CS203_assignment_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hansi/CS203_ASSIGNMENT/CS203_assignment/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/hansi/CS203_ASSIGNMENT/CS203_assignment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
